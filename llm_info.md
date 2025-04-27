@@ -66,7 +66,8 @@ Para a etapa de classificação montei um arquivo.txt contendo todas as receitas
  Condimento 
  
  Outro mais
-
+ 
+[arquivo.txt anexado]
 ## 5. **CSV file**
 
 Preciso que monte um arquivo CSV contendo todas as informações das receitas, ingredientes e classificação, separados por ";", seguindo o seguinte padrão: 
