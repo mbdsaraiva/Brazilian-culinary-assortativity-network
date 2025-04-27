@@ -19,7 +19,7 @@ The analysis involves:
 4.  Visualizing the network graph.
 5.  Discussing the findings regarding ingredient pairing preferences in Brazilian cuisine.
 
-**Video Presentation:** [link]
+**Video Presentation:** [link](https://drive.google.com/file/d/130wfXjWs-9fsDicOq2Ituwj5rQ6EnuOh/view).
 
 ## 🛠️ Methodology
 
