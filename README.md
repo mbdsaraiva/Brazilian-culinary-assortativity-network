@@ -6,7 +6,7 @@
 ## 👤 Author
 
 *   **Name:** Matheus Bezerra Dantas Saraiva
-*   **Course:** Computer Engineering - Federal University of Rio Grande do Norte
+*   **Course:** Algorithms and Data Structures II
 
 ## 📝 Project Description
 
