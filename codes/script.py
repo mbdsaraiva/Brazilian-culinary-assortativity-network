@@ -2,7 +2,7 @@ import os
 import requests
 
 # Caminho da pasta onde as imagens serão salvas
-output_folder = r"C:\Users\mathe\OneDrive\Área de Trabalho\aed2_receitas"
+output_folder = r"destiny"
 os.makedirs(output_folder, exist_ok=True)
 
 # Lista de receitas e URLs
