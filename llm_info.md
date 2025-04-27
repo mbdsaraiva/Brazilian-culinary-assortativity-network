@@ -14,7 +14,7 @@ And finally, for the creation of the .csv file containing information about 'rec
 
 ## Prompts Used
 
-## 1. Prompt for generating 50 recipes:
+## 1. Prompt for generating 50 recipes
 
 Sugira 50 receitas que são tipicamente brasileiras, para a criação de um grafo de assortatividade contendo as informações sobre ingredientes e seus tipos observando o seguinte:
 
