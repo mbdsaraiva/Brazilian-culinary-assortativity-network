@@ -58,7 +58,7 @@ The analysis of the Brazilian culinary ingredient network revealed several key i
 *   **Ingredient Type Connectivity:** Vegetables show the highest average degree (12.29), indicating they are frequently combined with many other ingredients. Proteins (7.39) and Carbohydrates (7.00) also show significant connectivity.
 *   **Network Structure:** The network is fully connected (1 connected component) with a diameter of 6 and an average shortest path length of 2.58, suggesting ingredients are relatively closely linked within the culinary network.
 
-**Discussion (within 500 words):**
+**Discussion:**
 
 The negative assortativity coefficient (-0.0794) points towards a preference for **heterophily** in the analyzed Brazilian recipes. This indicates that Brazilian cuisine, as represented by this dataset, tends to combine ingredients from different functional categories (like pairing a protein with a vegetable or carbohydrate) more often than ingredients from the same category (like pairing two different types of vegetables). This contrasts with homophilic networks where nodes tend to connect to similar nodes. The high percentage of heterophilic connections (86.54%) strongly reinforces this finding.
 
