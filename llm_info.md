@@ -45,6 +45,7 @@ Crie um script em python que recebe uma URL contendo imagens e faz o download de
 ## 3. **Ingredients identification**
 
 Preciso que extraia os ingredientes dos 50 pratos a partir da imagem, tome como base apenas as imagens e o que vc consegue perceber: 
+
 [Imagens anexadas]
 
 ## 4. **Ingredients classification**
