@@ -14,7 +14,7 @@ And finally, for the creation of the .csv file containing information about 'rec
 
 ## Prompts Used
 
-1. **Prompt for generating 50 recipes**:
+## 1. Prompt for generating 50 recipes:
 
 Sugira 50 receitas que são tipicamente brasileiras, para a criação de um grafo de assortatividade contendo as informações sobre ingredientes e seus tipos observando o seguinte:
 
@@ -38,16 +38,16 @@ Proteína, caboidrato, vegetal, fruta, etc...
 
  A princípio vou fazer apenas essa primeira etapa de levantamento dos dados, sugira portanto 50 receitas, é importante que não classifique agora, a classificação virá na próxima etapa após a reunião de todas as imagens.
 
-2. **Script creation**
+## 2. **Script creation**
 
 Crie um script em python que recebe uma URL contendo imagens e faz o download delas para uma pasta qualquer
 
-3. **Ingredients identification**
+## 3. **Ingredients identification**
 
 Preciso que extraia os ingredientes dos 50 pratos a partir da imagem, tome como base apenas as imagens e o que vc consegue perceber: 
 [Imagens anexadas]
 
-4. **Ingredients classification**
+## 4. **Ingredients classification**
 
 Para a etapa de classificação montei um arquivo.txt contendo todas as receitas e seus respectivos ingredientes, agora preciso ir para a próxima etapa que é a classificação deles, vou mandar as informações contidas no txt e preciso que me retorne a classificação de cada um dos ingredientes quanto sua categoria, por exemplo: 
 
@@ -67,7 +67,7 @@ Para a etapa de classificação montei um arquivo.txt contendo todas as receitas
  
  Outro mais
 
-5. **CSV file**
+## 5. **CSV file**
 
 Preciso que monte um arquivo CSV contendo todas as informações das receitas, ingredientes e classificação, separados por ";", seguindo o seguinte padrão: 
 
@@ -75,7 +75,7 @@ nome_receita  ingredientes  tipos_ingredientes
 
 [arquivo.txt anexado]
 
-6. **Main code and assortativity analysis process**
+## 6. **Main code and assortativity analysis process**
 
 Crie um código em python que faça a leitura do arquivo.csv e exiba a rede, o programa deve destacar pelo tamanho os nós com mais conexões e o tamanho dos nomes deve ser proporcional ao tamanho do nó, além disso o atributo do nó deve ser demarcado através de cores, considere ainda que o código deve anteder os seguintes critérios: 
 
