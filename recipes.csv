@@ -1,0 +1,51 @@
+receita;ingredientes;tipos de ingredientes
+Feijoada;Feijão, Carne de porco, Linguiça;Leguminosa, Proteína, Proteína
+Moqueca capixaba;Camarão, Cebola, Tomate, Ervas;Proteína, Vegetal, Vegetal, Vegetal
+Moqueca baiana;Camarão, Cebola, Tomate, Pimentão, Ervas, Azeite de dendê, Leite de coco;Proteína, Vegetal, Vegetal, Vegetal, Vegetal, Gordura, Laticínio
+Bobó de camarão;Camarão, Mandioca, Leite de coco, Azeite de dendê, Tomate, Cebola, Pimentão;Proteína, Carboidrato, Laticínio, Gordura, Vegetal, Vegetal, Vegetal
+Baião de dois;Arroz, Feijão, Queijo, Linguiça, Cebolinha;Carboidrato, Leguminosa, Laticínio, Proteína, Vegetal
+Arroz carreteiro;Arroz, Carne seca, Cebola, Cheiro-verde;Carboidrato, Proteína, Vegetal, Vegetal
+Galinhada;Frango, Arroz, Ervas, Cebola, Tomate;Proteína, Carboidrato, Vegetal, Vegetal, Vegetal
+Vatapá;Pão, Camarão, Leite de coco, Azeite de dendê, Amendoim, Ervas;Carboidrato, Proteína, Laticínio, Gordura, Leguminosa, Vegetal
+Sarapatel;Carne de porco, Sangue, Alho, Cebola, Pimenta, Ervas;Proteína, Proteína, Condimento, Vegetal, Condimento, Vegetal
+Dobradinha;Feijão, Tripa, Linguiça, Pimentão, Cheiro-verde;Leguminosa, Proteína, Proteína, Vegetal, Vegetal
+Picadinho de carne;Carne, Batata, Tomate, Cebola, Alho, Pimenta, Cheiro-verde, Óleo ou azeite;Proteína, Carboidrato, Vegetal, Vegetal, Condimento, Condimento, Vegetal, Gordura
+Vaca atolada;Costela de boi, Mandioca, Tomate, Cebola, Alho, Pimenta, Cheiro-verde, Óleo ou azeite;Proteína, Carboidrato, Vegetal, Vegetal, Condimento, Condimento, Vegetal, Gordura
+Costela no bafo;Costela de boi, Alho, Cebola, Pimenta, Cheiro-verde, Azeite;Proteína, Condimento, Vegetal, Condimento, Vegetal, Gordura
+Frango com quiabo;Frango, Quiabo, Cebola, Alho, Tomate, Pimenta;Proteína, Vegetal, Vegetal, Condimento, Vegetal, Condimento
+Rabada com agrião;Rabada, Agrião, Batata, Cebola, Alho, Cebolinha;Proteína, Vegetal, Carboidrato, Vegetal, Condimento, Vegetal
+Peixada;Peixe, Pimentão, Tomate, Coentro, Cebolinha, Batata;Proteína, Vegetal, Vegetal, Vegetal, Vegetal, Carboidrato
+Ensopado de peixe com pirão;Peixe, Tomate, Cebola, Pimentão, Coentro, Farinha de mandioca;Proteína, Vegetal, Vegetal, Vegetal, Vegetal, Carboidrato
+Escondidinho de carne seca;Carne seca, Purê de batata, Queijo, Cebola, Alho;Proteína, Carboidrato, Laticínio, Vegetal, Condimento
+Escondidinho de frango;Frango, Purê de batata, Queijo;Proteína, Carboidrato, Laticínio
+Arroz com pequi;Arroz, Pequi, Pimentão, Pimenta, Cebolinha, Alho, Tomate;Carboidrato, Fruta, Vegetal, Condimento, Vegetal, Condimento, Vegetal
+Caldo verde;Couve, Linguiça, Batata, Cebola, Alho;Vegetal, Proteína, Carboidrato, Vegetal, Condimento
+Caldo de mocotó;Mocotó, Cebola, Alho, Coentro, Tomate;Proteína, Vegetal, Condimento, Vegetal, Vegetal
+Sopa de ervilha com bacon;Ervilha, Bacon, Ervas verdes, Pimenta, Croutons;Leguminosa, Proteína, Vegetal, Condimento, Carboidrato
+Canja de galinha;Frango, Arroz, Batata, Cenoura, Cebola;Proteína, Carboidrato, Carboidrato, Vegetal, Vegetal
+Sopa de mandioca com carne;Mandioca, Carne, Cebolinha, Alho, Cebola;Carboidrato, Proteína, Vegetal, Condimento, Vegetal
+Farofa;Farinha de mandioca, Cenoura, Verduras, Linguiça;Carboidrato, Vegetal, Vegetal, Proteína
+Tutu de feijão;Feijão, Farinha de mandioca, Bacon, Linguiça, Ovos, Cebolinha;Leguminosa, Carboidrato, Proteína, Proteína, Proteína, Vegetal
+Feijão tropeiro;Feijão, Linguiça, Bacon, Couve, Farinha de mandioca, Ovos;Leguminosa, Proteína, Proteína, Vegetal, Carboidrato, Proteína
+Pamonha salgada;Milho, Queijo, Linguiça;Carboidrato, Laticínio, Proteína
+Purê de mandioquinha;Mandioquinha, Salsa, Manteiga;Carboidrato, Vegetal, Gordura
+Couve refogada;Couve, Alho;Vegetal, Condimento
+Salada de maionese;Macarrão, Maionese, Cenoura, Ervilha, Pimentão vermelho, Salsa;Carboidrato, Gordura, Vegetal, Leguminosa, Vegetal, Vegetal
+Acarajé;Feijão, Vatapá, Camarão, Pimenta, Coentro;Carboidrato, Carboidrato, Proteína, Condimento, Vegetal
+Bolinho de bacalhau;Bacalhau, Batata, Salsa, Cebola;Proteína, Carboidrato, Vegetal, Vegetal
+Coxinha;Frango, Farinha de trigo, Farinha de rosca, Óleo;Proteína, Carboidrato, Carboidrato, Gordura
+Pastel de feira;Massa de pastel, Carne moída, Temperos, Óleo;Carboidrato, Proteína, Condimento, Gordura
+Kibe frito;Carne moída, Trigo para quibe, Hortelã, Cebola;Proteína, Carboidrato, Vegetal, Vegetal
+Pão de queijo;Polvilho doce, Queijo, Ovos;Carboidrato, Laticínio, Proteína
+Torresmo;Barriga de porco, Sal;Proteína, Condimento
+Brigadeiro;Leite condensado, Chocolate em pó, Granulado de chocolate;Laticínio, Condimento, Condimento
+Beijinho;Leite condensado, Coco ralado, Cravo-da-índia;Laticínio, Fruta, Condimento
+Cocada;Coco ralado, Açúcar;Fruta, Carboidrato
+Pudim de leite condensado;Leite condensado, Ovos, Açúcar, Leite;Laticínio, Proteína, Carboidrato, Laticínio
+Bolo de milho;Milho, Farinha de trigo, Leite condensado;Carboidrato, Carboidrato, Laticínio
+Bolo de cenoura com cobertura de chocolate;Cenoura, Chocolate, Farinha de trigo;Vegetal, Condimento, Carboidrato
+Curau;Milho, Açúcar, Leite, Canela;Carboidrato, Carboidrato, Laticínio, Condimento
+Canjica;Milho, Leite, Açúcar, Canela;Carboidrato, Laticínio, Carboidrato, Condimento
+Pé de moleque;Amendoim, Açúcar;Leguminosa, Carboidrato
+Churrasco;Linguiça, Picanha;Proteína, Proteína
+Tucunaré assado;Limão, Sal, Tomate, Alface, Azeitona;Fruta, Condimento, Vegetal, Vegetal, Fruta
