@@ -13,8 +13,8 @@
 This project aims to analyze the assortativity of a co-occurrence network of ingredients from popular Brazilian recipes. The main goal is to determine whether Brazilian cuisine tends to favor homogeneous combinations (ingredients of the same type) or heterogeneous combinations (ingredients of different types).
 
 The analysis involves:
-1.  Building an ingredient co-occurrence graph from at least 50 popular Brazilian recipes.
-2.  Classifying ingredients by type (e.g., Protein, Carbohydrate, Vegetable).
+1.  Identifying and classifying ingredients by type (e.g., Protein, Carbohydrate, Vegetable).
+2.  Building an ingredient co-occurrence graph from at least 50 popular Brazilian recipes.
 3.  Calculating the assortativity coefficient based on ingredient types using NetworkX.
 4.  Visualizing the network graph.
 5.  Discussing the findings regarding ingredient pairing preferences in Brazilian cuisine.
