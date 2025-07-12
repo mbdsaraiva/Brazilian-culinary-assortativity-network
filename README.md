@@ -5,7 +5,7 @@
 
 ## 👤 Author
 
-*   **Name:** Matheus Bezerra Dantas Saraiva - 20230093901
+*   **Name:** Matheus Bezerra Dantas Saraiva
 *   **Course:** Algorithms and Data Structures II
 
 ## 📝 Project Description
