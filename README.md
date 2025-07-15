@@ -1,6 +1,6 @@
 ![Project Banner](/banner/banner.png)
 
-<h1 align="center">Brazilian Culinary Network Assortativity 🍲</h1>
+<h1 align="center">Brazilian Culinary Assortativity Network 🍲</h1>
 
 
 ## 👤 Author
