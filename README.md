@@ -6,7 +6,6 @@
 ## 👤 Author
 
 *   **Name:** Matheus Bezerra Dantas Saraiva
-*   **Course:** Algorithms and Data Structures II
 
 ## 📝 Project Description
 
